@@ -1,0 +1,29 @@
+{
+  "siteName": {
+    "value": "howyoulikeit2"
+  },
+  "hostingPlanName": {
+    "value": "howyoulikeit_serviceplan"
+  },
+  "siteLocation": {
+    "value": "North Europe"
+  },
+  "sku": {
+    "value": "Free"
+  },
+  "workerSize": {
+    "value": "0"
+  },
+  "siteMode": {
+    "value": "Limited"
+  },
+  "computeMode": {
+    "value": "0"
+  },
+  "subscriptionId": {
+    "value": "0b2aefa5-3ad4-459a-9fb8-6c70a79a3a93"
+  },
+  "resourceGroup": {
+    "value": "howyoulikeit_resourcegroup"
+  }
+}
