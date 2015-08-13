@@ -1,4 +1,6 @@
-﻿using System.Data.Entity;
+﻿using howyoulikeit.Models.myevent;
+using howyoulikeit.Models.user;
+using System.Data.Entity;
 
 namespace howyoulikeit.Models
 {
@@ -15,5 +17,8 @@ namespace howyoulikeit.Models
 
         public DbSet<Blog> Blogs { get; set; }
         public DbSet<Post> Posts { get; set; }
+        public DbSet<User> Users { get; set; }
+        public DbSet<MyEvent> MyEvents { get; set; }
+        public DbSet<Emoji> MyEmojis { get; set; }
     }
 }
